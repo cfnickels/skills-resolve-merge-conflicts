@@ -1,3 +1,5 @@
-## Literature Cited
+# References
 
-placehlder for adding references later
+* octocat 1 😈
+
+Placeholder for adding references later
